@@ -1,1 +1,2 @@
-# UAS_PI2_CI3
+# pi2-ci3
+Tugas Pertemuan 13 CI - Penjualan Barang (Insert, Edit, Delete)
